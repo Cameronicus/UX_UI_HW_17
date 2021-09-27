@@ -1,0 +1,119 @@
+.inline-block {
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 2%;
+    padding-right: 1%;
+}
+
+.ln {
+    width: 60px;
+    padding-top: 7%;
+    display: inline-block;
+    text-align: center;
+}
+
+.logo {
+    width: fit-content;
+    padding-top: 0.5%;
+}
+
+.name {
+    width: fit-content;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 60%;
+}
+
+.section {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.sidebar {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 30%; /* Set the width of the sidebar */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+.heroImgs {
+    height: 100%;
+    width: 70%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-left: 30%;
+    overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+.navigation{
+    width: 100%;
+    background-color: #00B9F3;
+    height: 64px;
+}
+
+.flex-container {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    background-color: #00baf398;
+}
+
+.flexchild1 {
+    border-radius: 25px;
+background-image: url("file:///C /Users/csmas/Documents/GitHub/UX_UI_HW_ 17/images/5461.JPG");
+background-position: left top;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 23%;
+height: 266px;
+margin: 1%;
+}
+
+.flexchild2 {
+    border-radius: 25px;
+background-image: url("file:///C /Users/csmas/Documents/GitHub/UX_UI_HW_ 17/images/5069.JPG");
+background-position: left top;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 23%;
+height: 266px;
+margin: 1%;
+}
+
+.flexchild3 {
+    border-radius: 25px;
+background-image: url("file:///C /Users/csmas/Documents/GitHub/UX_UI_HW_ 17/images/5099.JPG");
+background-position: left top;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 23%;
+height: 266px;
+margin: 1%;
+}
+
+.flexchild4 {
+    border-radius: 25px;
+background-image: url("file:///C /Users/csmas/Documents/GitHub/UX_UI_HW_ 17/images/5196.JPG");
+background-position: left top;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+width: 23%;
+height: 266px;
+margin: 1%;
+}
+
+.foot {
+    width: 100%;
+    background-color: #00B9F3;
+    height: 72px;
+}
+
+.contact {
+    padding: 0.3%;
+    padding-left: 80%;
+}
